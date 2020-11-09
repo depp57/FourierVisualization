@@ -1,6 +1,0 @@
-maths/Algorithms.java
- maths.Algorithms
-maths/Signal.java
- maths.Signal
-FourierVisualization.java
- FourierVisualization
